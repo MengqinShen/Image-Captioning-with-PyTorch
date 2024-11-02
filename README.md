@@ -1,2 +1,2 @@
 # Image-Captioning-with-PyTorch
-Built an Encoder-Decoder model to generate caption, applied pretrained CLIP model, along with data augmentation to further boost the performance
+This project was to built an Encoder-Decoder model to find patterns in images and then use that information to automatically generate a description captions. A pretrained CLIP model was applied, along with data augmentation to further boost the performance. It showed competitive results on MS COCO data.
